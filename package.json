@@ -11,17 +11,17 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-relay.git",
+    "url": "git://github.com/ly95/byteball-relay.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteball-relay/issues"
+    "url": "https://github.com/ly95/byteball-relay/issues"
   },
   "browser": {
     "request": "browser-request",
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/byteball/byteballcore.git"
+    "byteballcore": "git+https://github.com/ly95/byteballcore.git"
   }
 }
